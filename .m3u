@@ -116,13 +116,13 @@ http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",DREAMWORK
 http://starshare.live:8080/live/543678/546789/5739.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/907bzWsT/Disney-Junior.png" group-title="Kids", Disney Junior
-http://tvku.live:8888/live/serverkuh/098123/3614.m3u8
+http://tvku.live:8888/live/serverkuh/alsk019283/3614.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/hG2p5Z9J/Disney-CHannel.png" group-title="Kids",Disney Channel
-http://tvku.live:8888/live/serverkuh/098123/3613.m3u8
+http://tvku.live:8888/live/serverkuh/alsk019283/3613.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/907bzWsT/Disney-Junior.png" group-title="Kids", DisneyXD
-http://103.148.77.27/live/serverkuh/098123/104.m3u8?token=QhBYV0dYRg4TDgFQV1IIBFBUVgVTDgZdDgIAAQBVVANdCgcBAlYCUAEaSBAQEEJXVQhvWgIbCVQJABwTFEUEEGZbVBQOEl0HBwhQEE9GRFtZABIJVhURFVBQEgtDB1lSDgQSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDkdkVgpcWApUQV5YClcSCxl7XlJbXgFHWFlEGjMwGRAYR1JaEktSEVwWChNQBFFbGx4SVVtFCkBDQUYIQS10EBhHVUsSXF0WUFteE1sUDFFMChIaFlkXa0NdF0YRAVFfURcSCUQJEUkbWVFJPlUODFdXU0JdXwpHEwJGBkFIEl9bC1lHCUtsFVBQEgtDB1hTAQASSw==
+http://103.148.77.27/live/serverkuh/alsk019283/104.m3u8?token=QhBYV0dYRg4TDgFQV1IIBFBUVgVTDgZdDgIAAQBVVANdCgcBAlYCUAEaSBAQEEJXVQhvWgIbCVQJABwTFEUEEGZbVBQOEl0HBwhQEE9GRFtZABIJVhURFVBQEgtDB1lSDgQSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDkdkVgpcWApUQV5YClcSCxl7XlJbXgFHWFlEGjMwGRAYR1JaEktSEVwWChNQBFFbGx4SVVtFCkBDQUYIQS10EBhHVUsSXF0WUFteE1sUDFFMChIaFlkXa0NdF0YRAVFfURcSCUQJEUkbWVFJPlUODFdXU0JdXwpHEwJGBkFIEl9bC1lHCUtsFVBQEgtDB1hTAQASSw==
 #EXTINF:0 tvg-logo="https://i.postimg.cc/fTdqRKhF/cartoonnetwork.png" group-title="Kids",Cartoon Network
-http://103.148.77.27/live/serverkuh/098123/680.m3u8?token=QhBYV0dYRg4TXQYBVgUFBFIHCQdfDAdWXARSAAVSUVYBBgZSAlNQAlIaSBAQEEJXVQhvWgIbCVMBBBwTFEUEEGZbVBQOEl0HBwhQEE9GRFtZABIJVhURFVBQEgtDBFhTDAcSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDkdkVgpcWApUQV5YClcSCxl7XlJbXgFHWFlEGjMwGRAYR1JaEktSEVwWChNYD1ZAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NbUhcBEBwUXUM7RlRLEEAGBV1XRkcKEVYbH0dUVUhuAlkPDFxRRF9bXhcWCxpQEE9GXV1aDERcFGZDDF0WChNTBlhSG08=
+http://103.148.77.27/live/serverkuh/alsk019283/680.m3u8?token=QhBYV0dYRg4TXQYBVgUFBFIHCQdfDAdWXARSAAVSUVYBBgZSAlNQAlIaSBAQEEJXVQhvWgIbCVMBBBwTFEUEEGZbVBQOEl0HBwhQEE9GRFtZABIJVhURFVBQEgtDBFhTDAcSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDkdkVgpcWApUQV5YClcSCxl7XlJbXgFHWFlEGjMwGRAYR1JaEktSEVwWChNYD1ZAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NbUhcBEBwUXUM7RlRLEEAGBV1XRkcKEVYbH0dUVUhuAlkPDFxRRF9bXhcWCxpQEE9GXV1aDERcFGZDDF0WChNTBlhSG08=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLY0DLrJ/boomerang.png" group-title="Kids",Boomerang
 http://iptv.burhansyam.com/useetvgo/boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY0nH8mC/horee.png" group-title="Kids", Horee
@@ -401,7 +401,7 @@ http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 3
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony ESPN
 https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="Sports", BeinSport 1
