@@ -163,11 +163,11 @@ http://45.126.83.51:80/session/94e87a74-8d3d-11ea-9caf-922bb8f06b04/qwr9ew/s/s34
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2QGdTfF/hbo.png" group-title="Movies", HBO
 http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yHf270r/hbo-hits.png" group-title="Movies", HBO Hits
-http://tvku.live:8888/live/serverkuh/alsk019283/4829.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNs4jHKs/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
-http://tvku.live:8888/live/serverkuh/alsk019283/4831.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqsHF84x/HBO-Family-logo.png" group-title="Movies", HBO Family
-http://tvku.live:8888/live/serverkuh/alsk019283/4830.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brVKQNvv/Red-HBO.png" group-title="Movies", Red by HBO
 http://fdtvapps.xyz/channel/red.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T126V4qt/Fox.png" group-title="Movies", FOX
