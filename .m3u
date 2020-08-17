@@ -7,9 +7,9 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0Q1d3GLR/globaltv.png" group-title="Indonesia", GLOBAL TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zrvSJd1/Trans-tv.png" group-title="Indonesia", TRANS TV
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+https://mkctv.net/video/trans.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Indonesia", TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
+https://mkctv.net/video/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pDd2L62/Metro-tv.png" group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLsm5z9M/NETtv.png" group-title="Indonesia", Net TV
@@ -267,7 +267,7 @@ http://79.142.197.7:8888/Sony_Sci_Fi/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cinema", andtv
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cinema",Sony Pix
-http://103.205.133.19/hls/sonypix.m3u8
+http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34470?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 tvg-logo="" group-title="Cinema", Starbharat
 http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cinema", Sony Sab
@@ -280,7 +280,7 @@ http://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cinema", Sony AATH
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cinema", Sony Max
-http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cinema", MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cinema", MBC 2
@@ -350,7 +350,7 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D2459
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DwMcQ4Fs/Foodie-channel.png" group-title="Knowledge",Foodie Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",TLC
-http://203.153.218.28:9981/stream/channelid/391618553?ticket=92D7F88CF74C72501B6AFC9FCF90DF439783701B&profile=pass
+http://103.47.132.165/PLTV/88888888/224/3221227113/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", Lifetime
 http://103.47.132.165/PLTV/88888888/224/3221227120/2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", HGTV
