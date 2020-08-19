@@ -216,9 +216,9 @@ http://103.47.132.165/PLTV/88888888/224/3221227143/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/448kCw1T/Sony-Gem.png" group-title="ASIA", Sony Gem
 http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGRN8YKV/TVN.png" group-title="ASIA", TvN
-http://tvku.live:8888/live/serverkuh/alsk019283/767.m3u8
+http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/18552
 #EXTINF:-1 tvg-logo="" group-title="ASIA",TVN MOVIES
-http://starshare.live:8080/live/543678/546789/5660.ts
+http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/18551
 #EXTINF:-1 tvg-logo="" group-title="ASIA",zqdrama
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6mQwVTz/kix.png" group-title="ASIA", Kix
@@ -230,7 +230,7 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnJTfRZF/Celestial.png" group-title="ASIA", Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGsgKkrg/Waku-Waku-Japan.png" group-title="ASIA", Waku-Waku Japan
-http://tvku.live:8888/live/serverkuh/alsk019283/717.m3u8
+http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/62143
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yz9Xhg3/diva.png" group-title="ASIA", Diva
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwRn95nz/First-Movies.png" group-title="ASIA", First Movie
@@ -319,9 +319,9 @@ http://103.47.132.165/PLTV/88888888/224/3221227339/1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg" group-title="Knowledge", Smithsonian
 http://103.47.132.165/PLTV/88888888/224/3221227321/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvmQmyJK/BBC-Earth.png" group-title="Knowledge", BBC Earth
-https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvmQmyJK/BBC-Earth.png" group-title="Knowledge", BBC Earth 2
-http://tvku.live:8888/live/serverkuh/alsk019283/385.m3u8
+http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/18610
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XrHDW55/Animal-Planet.png" group-title="Knowledge", Animal Planet
 http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7xLJDzs/Discovery-channel.png" group-title="Knowledge", Discovery Chanel
