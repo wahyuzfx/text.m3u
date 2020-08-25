@@ -153,7 +153,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brLq4hwX/Cinemax.png" group-title="Movies", Cinemax
 http://fdtvapps.xyz/channel/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fPKLBfK/warner.png" group-title="Movies", Warner tv
-http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+http://nonton.site:8888/333/333/1533
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zN5X2J6/AXN.png" group-title="Movies", AXN
 http://210.210.155.35/session/c497acae-cdd4-11ea-934d-b82a72d63267/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zN5X2J6/AXN.png" group-title="Movies", AXN HD
@@ -216,9 +216,9 @@ http://103.47.132.165/PLTV/88888888/224/3221227143/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/448kCw1T/Sony-Gem.png" group-title="ASIA", Sony Gem
 http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGRN8YKV/TVN.png" group-title="ASIA", TvN
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/18552
+http://nonton.site:8888/333/333/767
 #EXTINF:-1 tvg-logo="" group-title="ASIA",TVN MOVIES
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/18551
+http://nonton.site:8888/333/333/927
 #EXTINF:-1 tvg-logo="" group-title="ASIA",zqdrama
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6mQwVTz/kix.png" group-title="ASIA", Kix
@@ -250,7 +250,7 @@ http://iptv.burhansyam.com/useetvgo/imc.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNCNHWNG/Citra-Drama.png" group-title="ASIA", Citra Drama
 http://iptv.burhansyam.com/useetvgo/cdrama.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Cf6yPS/Galaxy.png" group-title="ASIA", Galaxy Movies
-#https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=0
+http://nonton.site:8888/333/333/29603
 
 #######Cinema#######
 
@@ -321,7 +321,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227321/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvmQmyJK/BBC-Earth.png" group-title="Knowledge", BBC Earth
 http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvmQmyJK/BBC-Earth.png" group-title="Knowledge", BBC Earth 2
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/18610
+http://nonton.site:8888/333/333/385
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XrHDW55/Animal-Planet.png" group-title="Knowledge", Animal Planet
 http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7xLJDzs/Discovery-channel.png" group-title="Knowledge", Discovery Chanel
@@ -330,15 +330,15 @@ http://103.47.132.165/PLTV/88888888/224/3221227169/2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery Asia
 http://103.47.132.165/PLTV/88888888/224/3221227161/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery Sci-fi
-http://tvku.live:8888/live/serverkuh/alsk019283/408.m3u8
+http://nonton.site:8888/333/333/408
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery history Asia
 http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKkVTFs6/History.png" group-title="Knowledge",History2
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKkVTFs6/History.png" group-title="Knowledge",History
-http://103.47.132.165/PLTV/88888888/224/3221227335/1.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227335/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XYt8nCc/natgeo.png" group-title="Knowledge",Nat Geographic
-http://103.47.132.165/PLTV/88888888/224/3221227177/1.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227177/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vThr4c34/Nat-geo-wild.png" group-title="Knowledge",Nat Geo Wild
 http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHq0Zybk/nat-Geo-pople.png" group-title="Knowledge",Nat Geo People
@@ -354,7 +354,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227113/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", Lifetime
 http://103.47.132.165/PLTV/88888888/224/3221227120/2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", HGTV
-http://tvku.live:8888/live/serverkuh/alsk019283/3628.m3u8
+http://nonton.site:8888/333/333/537
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxNgRJd1/Redbull.png" group-title="Knowledge", Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Knowledge", Fashion TV Teens
