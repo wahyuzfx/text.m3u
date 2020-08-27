@@ -395,7 +395,7 @@ http://iptv.burhansyam.com/useetvgo/champion1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="Sports", Champions tv 2
 http://iptv.burhansyam.com/useetvgo/champion2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports", Sony Six
-http://103.205.133.19/hls/sonysix.m3u8
+http://103.205.133.14/hls/sonysix.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 2
