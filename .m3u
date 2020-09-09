@@ -434,13 +434,12 @@ https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/898.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtPjCXWn/Arena-Sport-2.png" group-title="Sports",Arena Sport 2
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/897.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCwdK0Np/Arena-Sport-3.png" group-title="Sports",Arena Sport 3
-dip=M2VkYzQ3YWZiMzkzNjVhODQ4MDEwYTZlYmQwZThhZTg=&pip=118.96.202.8&hip=ZTBkNjA5YWQwYjBlNzVkZjE5NDBhNTE1NjJmNzdkMDY=
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/896.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhQjgSPk/Arena-Sport-4.png" group-title="Sports",Arena Sport 4
-https://mmm.sportbar.biz/lba/OTVjNGUzYjFiODgzMzEyNWJlZjc2M2Y5MThlNjhhNTI=/g3/arenaserbia4.m3u8?token=OTVjNGUzYjFiODgzMzEyNWJlZjc2M2Y5MThlNjhhNTI=&id=N2ViM2UxZWQ3YmVmMTA5ODY0OTdkMGQzZWJjOGEzMjE=&vip=1569325761&dip=Y2NlOTJhNDQwYWUyNmVjYzkwYjMzMGUwMTVhZmU2ZWM=&pip=36.71.234.19&hip=M2M1ZDEyYWUxNGU5OWQyN2JhNjAyYjRjMjc1MmFhMjU=
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/895.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTYRRSmf/Arena-Sport-5.png" group-title="Sports",Arena Sport 5
-https://sport7.ws/lba/MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=/g7/ar5sport.m3u8?token=MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=&id=MzhlMDE2NWE0MDZjNDg0ZGQzMWU3N2FkYjU1MjA1NmM=&vip=1571042024&dip=ZjMxNTU0YWJhZTk0MWVjNTg3YmRlODNlMmE3NjQzYWM=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/894.m3u8
 #EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.postimg.cc/7PTzTtQx/ad-sport-1.png" group-title="Sports", Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8 
 #EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-logo="https://i.postimg.cc/cCY8y68K/ad-sport-2.png" group-title="Sports", Ad Sports 2
