@@ -411,15 +411,15 @@ https://kamiselaluada.com/m3u/bein2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCHGT2CG/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XY1k4Gzq/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 http://yslive.188918.xyz/assass1.m3u8?tm=1579446186&key=6h_MVGFSJUdi6rKGTdEYLA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZZnFMXj/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
